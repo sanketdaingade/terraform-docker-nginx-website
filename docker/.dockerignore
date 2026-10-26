@@ -1,0 +1,7 @@
+.git
+.gitignore
+README.md
+*.pem
+*.tfstate
+*.tfstate.*
+.terraform/
